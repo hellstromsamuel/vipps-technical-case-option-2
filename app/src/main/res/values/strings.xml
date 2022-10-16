@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vipps - Option 2</string>
+    <string name="country">Country ...</string>
+    <string name="search_country">Search country</string>
+    <string name="country_name">Search for a country above</string>
+    <string name="vipps_technical_case">Vipps - Technical case</string>
+    <string name="message_response_fail">Invalid country name</string>
+</resources>
